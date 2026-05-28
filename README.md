@@ -39,6 +39,7 @@
 ## Direct connection
 
 CIRCUIT DIAGRAM: 
+
 <img width="1079" height="456" alt="Screenshot 2026-05-13 161337" src="https://github.com/user-attachments/assets/78d0cf41-d321-46c1-9377-7bf843b6d5f0" />
 
 
@@ -49,6 +50,7 @@ Tabulation:1
 ## Cross connection
 
 CIRCUIT DIAGRAM:
+
 <img width="862" height="405" alt="Screenshot 2026-05-13 162134" src="https://github.com/user-attachments/assets/9adac04c-f74c-4cae-86a4-0e3afad16501" />
 
 
