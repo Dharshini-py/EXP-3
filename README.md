@@ -1,5 +1,4 @@
-# EXP-3
-                 			## STAIR CASE WIRING                     
+# EXP-3                       STAIR CASE WIRING                     
 
  
 ## AIM
